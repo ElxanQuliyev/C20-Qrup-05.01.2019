@@ -1,5 +1,5 @@
 # C20-Qrup-05.01.2019
-Javascripti oxumağa başlayın. Kitabları Google Drive-a atdım və Sizinlə bölüşdüm. Eloquent Javascipt kitabını oxuya bilərsiniz. Bundan əlavə aşağədakı linklərdən faydalanın:
+Javascripti oxumağa başlayın.Aşağıdakı linklərdən faydalanın:
 <ul>
 <li>https://www.w3schools.com/js/default.asp</li>
 <li>https://javascript.info/</li>
